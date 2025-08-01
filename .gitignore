@@ -1,0 +1,15 @@
+# Ignorar arquivos Python compilados
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Ignorar ambiente virtual
+venv/
+env/
+
+# Ignorar arquivos do PyCharm
+.idea/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
